@@ -11,7 +11,7 @@ Play it here 👉 [**🐍Snaker Live**](https://mrpawargit.github.io/snakegame-j
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 <img width="1915" height="962" alt="image" src="https://github.com/user-attachments/assets/5cc7f632-8323-436a-9c68-7b7484aecd0c" />
 
