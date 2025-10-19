@@ -39,7 +39,7 @@
 }
 
 #board {
-  background: linear-gradient(rgb(170, 236, 170), rgb(236, 236, 167));
+  background: linear-gradient(rgb(124, 231, 124), rgb(167, 225, 125));
   width: 90vmin;
   height: 92vmin;
   border: 2px solid black;
@@ -48,21 +48,41 @@
   grid-template-columns: repeat(18, 1fr);
 }
 
-.head {
+/* .head {
   background: linear-gradient(rgb(240, 124, 124), rgb(228, 228, 129));
   border: 2px solid rgb(34, 4, 34);
   transform: scale(1.02);
   border-radius: 9px;
+} */
+
+.head {
+  background: linear-gradient(rgb(240, 124, 124), rgb(228, 228, 129));
+  border: 2px solid rgb(34, 4, 34);
+  transform: scale(1.02);
+  border-radius: 40%;
+  position: relative; /* Needed for the pseudo-element */
+}
+
+.head::before {
+  content: "";
+  position: absolute;
+  width: 18px; /* Size of the eye */
+  height: 18px;
+  background: black; /* Eye color */
+  border-radius: 50%; /* Makes it a circle */
+  top: 50%; /* Center vertically */
+  left: 50%; /* Center horizontally */
+  transform: translate(-50%, -50%); /* Perfect center */
 }
 
 .snake {
-  background-color: purple;
-  border: 0.25vmin solid white;
+  background-color: rgb(180, 15, 133);
+  border: 0.25vmin solid black;
   border-radius: 12px;
 }
 
 .food {
-  background: linear-gradient(red, purple);
+  background: linear-gradient(red, maroon);
   border: 0.25vmin solid black;
-  border-radius: 8px;
+  border-radius: 50%;
 }
