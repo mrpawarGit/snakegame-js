@@ -7,7 +7,7 @@ Move, grow, and survive as long as possible while chasing delicious food and avo
 ---
 
 ## 🚀 Live Demo
-Play it here 👉 [Snaker Live](https://mrpawargit.github.io/snakegame-js/)  
+Play it here 👉 [**🐍Snaker Live**](https://mrpawargit.github.io/snakegame-js/)
 
 ---
 
