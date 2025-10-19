@@ -13,7 +13,7 @@ Play it here 👉 [SnakeMania Live](https://mrpawargit.github.io/snakegame-js/)
 
 ## 📸 Screenshots
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ec5eafc4-ae02-4ca9-8443-82e643fc4760" />
+<img width="1915" height="962" alt="image" src="https://github.com/user-attachments/assets/5cc7f632-8323-436a-9c68-7b7484aecd0c" />
 
 ---
 
