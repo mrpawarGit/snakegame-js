@@ -1,13 +1,13 @@
 
-# 🐍 SnakeMania – Ek Gaming Katha
+# 🐍 Snaker - The OG Snake Game
 
-Welcome to **SnakeMania**, a fun, fast-paced, and nostalgic take on the classic **Snake Game** — built using **HTML, CSS, and JavaScript**.  
+Welcome to **Snaker**, a fun, fast-paced, and nostalgic take on the classic **Snake Game** — built using **HTML, CSS, and JavaScript**.  
 Move, grow, and survive as long as possible while chasing delicious food and avoiding collisions with yourself or the wall!
 
 ---
 
 ## 🚀 Live Demo
-Play it here 👉 [SnakeMania Live](https://mrpawargit.github.io/snakegame-js/)  
+Play it here 👉 [Snaker Live](https://mrpawargit.github.io/snakegame-js/)  
 
 ---
 
@@ -44,7 +44,7 @@ Play it here 👉 [SnakeMania Live](https://mrpawargit.github.io/snakegame-js/)
 
 ## ⚙️ Installation & Setup
 
-Follow these simple steps to run SnakeMania locally:
+Follow these simple steps to run Snaker locally:
 
 1. **Clone the repository**
 
@@ -106,5 +106,5 @@ Here are a few ideas planned for upcoming updates:
 
 ---
 
-### ⭐ If you enjoyed playing SnakeMania, don’t forget to **star this repo** and share it with your friends!
+### ⭐ If you enjoyed playing Snaker, don’t forget to **star this repo** and share it with your friends!
 
