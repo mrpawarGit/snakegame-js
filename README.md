@@ -47,16 +47,18 @@ Play it here 👉 [SnakeMania Live](https://mrpawargit.github.io/snakegame-js/)
 Follow these simple steps to run SnakeMania locally:
 
 1. **Clone the repository**
-   
-   git clone https://github.com/mrpawarGit/snakegame-js.git
 
-2. **Navigate into the project folder**
+   ```bash
+   git clone https://github.com/mrpawarGit/snakegame-js.git
+   ```
+
+1. **Navigate into the project folder**
 
    ```bash
    cd snakegame-js
    ```
 
-3. **Run the game**
+2. **Run the game**
 
    * Simply open the `index.html` file in your browser.
    * That’s it! 🕹️ Enjoy the game.
